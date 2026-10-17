@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Investidura Edgar Aquino//Almuerzo//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:almuerzo-edgar-aquino-2026@erafgt.github.io
+DTSTAMP:20261016T120000Z
+DTSTART:20261018T190000Z
+DTEND:20261018T220000Z
+SUMMARY:Almuerzo de celebracion del Ing. Edgar Aquino
+LOCATION:Los Cebollines\, Salon Chiapas\, Zona 10\, Ciudad de Guatemala
+DESCRIPTION:Almuerzo de celebracion por la investidura de Edgar Rene Aquino Farfan como Ingeniero en Sistemas.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Edgar Rene Aquino Farfan//Investidura//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:investidura-edgar-aquino-2026@erafgt.github.io
+DTSTAMP:20260807T050000Z
+DTSTART:20261018T160000Z
+DTEND:20261018T183000Z
+SUMMARY:Acto de Investidura de Edgar Rene Aquino Farfan
+LOCATION:Hotel Real InterContinental\, Gran Salon El Roble\, 14 calle 2-51 zona 10\, Ciudad de Guatemala
+DESCRIPTION:Investidura como Ingeniero en Sistemas\, Universidad Mariano Galvez de Guatemala.\nLas puertas del salon abren a las 9:00.\nEl ingreso requiere la invitacion oficial de la universidad.\nTransmision en vivo: https://www.youtube.com/@ActoSolemnedeInvestiduraUMG
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Manana es la investidura de Edgar
+END:VALARM
+END:VEVENT
+END:VCALENDAR
